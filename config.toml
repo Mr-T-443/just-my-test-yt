@@ -1,4 +1,4 @@
-enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
+ enable-magisk-update = true # set this to false if you do not want to receive updates for the module in magisk app
 parallel-jobs = 1
 
 # add 'enabled = false' for not patching a specific app or remove it from the config
@@ -23,4 +23,3 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 version = "latest"
 excluded-patches = "'Remove viewer discretion dialog' 'Disable double tap actions' 'Downloads' 'Custom branding' 'Change header' 'Wide search bar' 'Shorts autoplay' 'C>
-patcher-args = "-e 'Custom branding' -OcustomName=revanced youtube"
