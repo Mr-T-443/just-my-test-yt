@@ -21,4 +21,4 @@ version = "latest"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 version = "latest"
-excluded-patches = "'Remove viewer discretion dialog' 'Disable double tap actions' 'Downloads' 'Change header' 'Wide search bar' 'Shorts autoplay' 'C>
+excluded-patches = "'Remove viewer discretion dialog' 'Disable double tap actions' 'Downloads' 'Change header' 'Wide search bar' 'Shorts autoplay'"
