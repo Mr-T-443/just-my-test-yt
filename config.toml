@@ -10,7 +10,7 @@ parallel-jobs = 1
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 build-mode = "both"
 version = "latest"
-excluded-patches = "'Custom branding' 'Theme' 'Enable debugging' 'GmsCore support'"
+excluded-patches = "'Theme' 'Enable debugging' 'GmsCore support'"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
@@ -21,4 +21,4 @@ version = "latest"
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
 build-mode = "both"
 version = "latest"
-excluded-patches = "'Remove viewer discretion dialog' 'Disable double tap actions' 'Downloads' 'Custom branding' 'Change header' 'Wide search bar' 'Shorts autoplay' 'C>
+excluded-patches = "'Remove viewer discretion dialog' 'Disable double tap actions' 'Downloads' 'Change header' 'Wide search bar' 'Shorts autoplay' 'C>
