@@ -11,7 +11,6 @@ apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
 build-mode = "both"
 version = "latest"
 excluded-patches = "'Custom branding' 'Theme' 'Enable debugging' 'GmsCore support'"
-patcher-args = "-e 'Custom branding' -OcustomName=revanced music"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
